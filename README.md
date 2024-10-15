@@ -18,9 +18,9 @@
     hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-
-    [Portfólio](https://igor-magno.github.io/i-developer/)
 </div>
+
+**Confira meu portfólio:** [Portfólio](https://igor-magno.github.io/i-developer/)
 
 [//]: <> (### :hammer_and_wrench: Languages and Tools :)
 [//]: <> (<div>)
